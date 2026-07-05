@@ -1,6 +1,0 @@
-{
-  "name": "AI Vehicle Damage Detector",
-  "description": "An interactive full-stack AI Vehicle Damage Detection dashboard. Includes a live Gemini-powered visual detection sandbox simulating YOLOv8 and provides a complete production-ready Python Streamlit + YOLOv8 code template for local or cloud deployment.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
